@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Framework02_Junit:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0292a9c7-8a71-480a-89f5-19f0ac805d15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l9z3ZKnOC3BB2qBfc3m91bbMaf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Framework08_TestNG" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pkg4" />
+      <recent name="pkg2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\TonyStark\Framework02_Junit\src\browserDriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Demo200">
+    <configuration name="Demo01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Framework02_Junit" />
+      <option name="PACKAGE_NAME" value="pkg1" />
+      <option name="MAIN_CLASS_NAME" value="pkg1.Demo01" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Framework02_Junit" />
+      <option name="PACKAGE_NAME" value="pkg1" />
+      <option name="MAIN_CLASS_NAME" value="pkg1.Demo02" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Framework02_Junit" />
+      <option name="PACKAGE_NAME" value="pkg1" />
+      <option name="MAIN_CLASS_NAME" value="pkg1.Demo100" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Framework02_Junit" />
+      <option name="PACKAGE_NAME" value="pkg2" />
+      <option name="MAIN_CLASS_NAME" value="pkg2.Demo200" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo404_Ignore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Framework02_Junit" />
+      <option name="PACKAGE_NAME" value="pkg4" />
+      <option name="MAIN_CLASS_NAME" value="pkg4.Demo404_Ignore" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Demo200" />
+        <item itemvalue="JUnit.Demo100" />
+        <item itemvalue="JUnit.Demo01" />
+        <item itemvalue="JUnit.Demo02" />
+        <item itemvalue="JUnit.Demo404_Ignore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0292a9c7-8a71-480a-89f5-19f0ac805d15" name="Default Changelist" comment="" />
+      <created>1590424002333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590424002333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="153" key="FileChooserDialogImpl" timestamp="1619577098403">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="463" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1619577098403" />
+    <state width="1345" height="242" key="GridCell.Tab.0.bottom" timestamp="1619494729286">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="374" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1746636801254" />
+    <state width="1345" height="242" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1619494729286" />
+    <state width="1345" height="242" key="GridCell.Tab.0.center" timestamp="1619494729285">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="374" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1746636801254" />
+    <state width="1345" height="242" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1619494729285" />
+    <state width="1345" height="242" key="GridCell.Tab.0.left" timestamp="1619494729285">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="374" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1746636801253" />
+    <state width="1345" height="242" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1619494729285" />
+    <state width="1345" height="242" key="GridCell.Tab.0.right" timestamp="1619494729286">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="374" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1746636801254" />
+    <state width="1345" height="242" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1619494729286" />
+    <state x="65" y="0" key="new project wizard" timestamp="1746567527380">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1746567527380" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Framework02_Junit:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>ooxml-lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
